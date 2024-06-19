@@ -1,0 +1,15 @@
+
+
+#main{
+    width: 1920px;
+    height: 1080px;
+    background-color: #dadada;
+}
+
+#center{
+    width: 1800px;
+    height: 900px;
+    background-color: red;
+    align-items: center;
+    justify-content: center;
+}
